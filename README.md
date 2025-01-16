@@ -1,6 +1,6 @@
 ## Olá eu sou o José!
 
-🌱 Estudando Back-End
+📚 Estudando Back-End com Java
 
 <div align="center">
   
