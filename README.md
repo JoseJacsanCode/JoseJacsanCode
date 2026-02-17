@@ -1,13 +1,6 @@
 ## Olá eu sou o José!
 
 📚 Estudando Back-End com Java
-
-<div align="center">
-  
-  <a href="https://github.com/JoseJacsanCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseJacsanCode&theme=dracula&show_icons=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJacsanCode&layout=compact&langs_count=6&theme=dracula"/>
-</div>
   
 <div style="display: inline_block"><br>
   
