@@ -1,6 +1,6 @@
 ## Olá eu sou o José!
 
-📚 Estudando Back-End com Java
+📚 Estudando criação de apps com Flutter
   
 <div style="display: inline_block"><br>
   
